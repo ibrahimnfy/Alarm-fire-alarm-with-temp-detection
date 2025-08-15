@@ -1,0 +1,17 @@
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/alarm.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_other_files.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_qtprotobufgen_deps_0.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_qtprotoreg.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/alarm_autogen_timestamp_deps.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/alarm_autogen.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_autogen_timestamp_deps.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_autogen.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_qtprotoreg_autogen_timestamp_deps.dir
+C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/protobuf_messages_qtprotoreg_autogen.dir

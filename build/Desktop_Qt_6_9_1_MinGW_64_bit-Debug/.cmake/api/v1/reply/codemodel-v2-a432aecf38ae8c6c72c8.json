@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f3ee8a69d4f722080758.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "alarm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "alarm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alarm-Debug-77ed90226121d00e8ee2.json",
+					"name" : "alarm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alarm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alarm_autogen-Debug-a962bf2e51b23b79dd8d.json",
+					"name" : "alarm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "alarm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-alarm_autogen_timestamp_deps-Debug-2f8d2b06c8c3cd2cb819.json",
+					"name" : "alarm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages-Debug-948338839392889d72a9.json",
+					"name" : "protobuf_messages",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_autogen-Debug-80e80d1d41d9e1467dac.json",
+					"name" : "protobuf_messages_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_autogen_timestamp_deps-Debug-0f0aee2ae0f9ba7820e1.json",
+					"name" : "protobuf_messages_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_other_files-Debug-c5edfae2805fbce9825c.json",
+					"name" : "protobuf_messages_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_qtprotobufgen_deps_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_qtprotobufgen_deps_0-Debug-805268739e5ff5a2f58e.json",
+					"name" : "protobuf_messages_qtprotobufgen_deps_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_qtprotoreg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_qtprotoreg-Debug-e17dc6304919164369a6.json",
+					"name" : "protobuf_messages_qtprotoreg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_qtprotoreg_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_qtprotoreg_autogen-Debug-18a1c81b660f273f36c6.json",
+					"name" : "protobuf_messages_qtprotoreg_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "protobuf_messages_qtprotoreg_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-protobuf_messages_qtprotoreg_autogen_timestamp_deps-Debug-84d55478b5601fc4f730.json",
+					"name" : "protobuf_messages_qtprotoreg_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0130brahim F. Yo\u011furt\u00e7u/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/\u0130brahim F. Yo\u011furt\u00e7u/Documents/alarm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

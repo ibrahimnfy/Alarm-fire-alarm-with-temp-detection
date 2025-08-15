@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package chat;
+
+message Login {
+  string name = 1;
+  int64 time = 2;
+  int64 typeID = 3;
+}
+message Sensor {
+  string iD = 1;
+  int64 value = 2;
+  int64 typeID = 3; // 1 = humi, 2 = temp
+}
+
+message Chat {
+  string sender=1;
+  Sensor sensors = 2;
+}
+
+
+message Wrapper {
+  oneof payload {
+    Login login = 1;
+    Chat chat = 2;
+  }
+}

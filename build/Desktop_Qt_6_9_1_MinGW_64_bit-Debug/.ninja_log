@@ -1,0 +1,68 @@
+# ninja log v6
+7	897	7766101390969863	build.ninja	4e4830cecac60d94
+21	63	7766114833890542	protobuf_messages_exports.qpb.h	64f29e8d8fb3b926
+20	44	7766114832523611	CMakeFiles/clean.additional	baedbe210acaa455
+21	63	7766114833890542	message_qtprotoreg.cpp	64f29e8d8fb3b926
+21	63	7766114833890542	message.qpb.h	64f29e8d8fb3b926
+21	63	7766114833890542	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/protobuf_messages_exports.qpb.h	64f29e8d8fb3b926
+21	63	7766114833890542	message.qpb.cpp	64f29e8d8fb3b926
+21	63	7766114833890542	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/message.qpb.h	64f29e8d8fb3b926
+67	185	7766114834730515	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/protobuf_messages_qtprotoreg_autogen/timestamp	b6e2d777ef257d5a
+21	63	7766114833890542	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/message.qpb.cpp	64f29e8d8fb3b926
+2396	2868	7766114861480526	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/protobuf_messages_autogen/timestamp	f644ef48bb2df803
+21	63	7766114833890542	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/message_qtprotoreg.cpp	64f29e8d8fb3b926
+67	185	7766114834730515	protobuf_messages_qtprotoreg_autogen/timestamp	b6e2d777ef257d5a
+67	185	7766114834730515	protobuf_messages_qtprotoreg_autogen/mocs_compilation.cpp	b6e2d777ef257d5a
+67	185	7766114834730515	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/protobuf_messages_qtprotoreg_autogen/mocs_compilation.cpp	b6e2d777ef257d5a
+186	219	7766114835160512	CMakeFiles/protobuf_messages_qtprotoreg.dir/protobuf_messages_qtprotoreg_autogen/mocs_compilation.cpp.obj	97468cd37f7db1b4
+188	2396	7766114835180522	CMakeFiles/protobuf_messages_qtprotoreg.dir/message_qtprotoreg.cpp.obj	a5beeee28ef946f
+29	202	7766141298601098	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+29	202	7766141298601098	alarm_autogen/timestamp	d09f8941f3e13950
+2396	2868	7766114861480526	protobuf_messages_autogen/timestamp	f644ef48bb2df803
+2396	2868	7766114861480526	protobuf_messages_autogen/mocs_compilation.cpp	f644ef48bb2df803
+2396	2868	7766114861480526	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/protobuf_messages_autogen/mocs_compilation.cpp	f644ef48bb2df803
+2868	2902	7766114861980514	CMakeFiles/protobuf_messages.dir/protobuf_messages_autogen/mocs_compilation.cpp.obj	cf4f3e3f2423d66e
+2057	3031	7766141318890768	alarm.exe	a8da5855820ec31
+2871	5416	7766114862010694	CMakeFiles/protobuf_messages.dir/message.qpb.cpp.obj	f893e9726550403e
+5416	6612	7766114899331461	protobuf_messages.dll	fe33eb3b0cfb497f
+5416	6612	7766114899331461	libprotobuf_messages.a	fe33eb3b0cfb497f
+29	202	7766141298601098	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+29	202	7766141298601098	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+635	2121	7766135562661202	CMakeFiles/alarm.dir/alarm_autogen/mocs_compilation.cpp.obj	8e029c13cb372deb
+638	2131	7766135562681195	CMakeFiles/alarm.dir/main.cpp.obj	e61c56a0ad7d0c71
+203	2057	7766141300350780	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+44	56	7766114832771366	clean	577b940aee94fbd7
+12	171	7766181190745883	alarm_autogen/timestamp	d09f8941f3e13950
+12	171	7766181190745883	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+12	171	7766181190745883	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+12	171	7766181190745883	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+172	1987	7766181192355889	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+1987	2973	7766181210505893	alarm.exe	a8da5855820ec31
+23	560	7766187547258023	alarm_autogen/timestamp	d09f8941f3e13950
+23	560	7766187547258023	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+23	560	7766187547258023	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+23	560	7766187547258023	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+561	1968	7766187547798026	CMakeFiles/alarm.dir/alarm_autogen/mocs_compilation.cpp.obj	8e029c13cb372deb
+563	1998	7766187547818028	CMakeFiles/alarm.dir/main.cpp.obj	e61c56a0ad7d0c71
+566	2149	7766187547838023	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+2150	3180	7766187563678029	alarm.exe	a8da5855820ec31
+24	127	7766189174127947	alarm_autogen/timestamp	d09f8941f3e13950
+24	127	7766189174127947	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+24	127	7766189174127947	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+24	127	7766189174127947	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+128	1555	7766189175166962	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+1555	2573	7766189189446958	alarm.exe	a8da5855820ec31
+16	632	7766228636638951	alarm_autogen/timestamp	d09f8941f3e13950
+16	632	7766228636638951	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+16	632	7766228636638951	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+16	632	7766228636638951	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+633	2206	7766228637258963	CMakeFiles/alarm.dir/alarm_autogen/mocs_compilation.cpp.obj	8e029c13cb372deb
+636	2209	7766228637288931	CMakeFiles/alarm.dir/main.cpp.obj	e61c56a0ad7d0c71
+638	2385	7766228637318932	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+2385	3370	7766228654778923	alarm.exe	a8da5855820ec31
+11	146	7766878655029688	alarm_autogen/timestamp	d09f8941f3e13950
+11	146	7766878655029688	alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+11	146	7766878655029688	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/timestamp	d09f8941f3e13950
+11	146	7766878655029688	C:/Users/İbrahim F. Yoğurtçu/Documents/alarm/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/alarm_autogen/mocs_compilation.cpp	d09f8941f3e13950
+146	1657	7766878656379461	CMakeFiles/alarm.dir/mainwindow.cpp.obj	d1994cedf99fd2f1
+1658	2670	7766878671489448	alarm.exe	a8da5855820ec31
