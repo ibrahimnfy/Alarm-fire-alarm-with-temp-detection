@@ -5,6 +5,7 @@
 
 ## MainWindow
 - Arayüz objelerini temsil eden `ui` nesnesi oluşturulur ve Qt Designer’da çizilen objeler pencereye eklenir.  
+- Bir `QTextEdit` objesi arayüze eklenmiştir.  
 - Ardından client’lerin iletişim kuracağı **server nesnesi** tanımlanır.  
 - `connect` ile server’da yeni bir bağlantı kurulduğunda ve bağlantı sırada bulunuyorken client’e özel **socket** oluşturulur.  
 - Socket okumaya hazır olduğunda okunur ve socket’in ilk byte’ı `y` veya `Y` ise `alarm()` fonksiyonu çağırılır.  
